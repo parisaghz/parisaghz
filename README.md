@@ -1,8 +1,9 @@
 # 👋 Hi, I’m Parisa Ghazanfari (@parisaghz)
 
 🎓 Master’s student in **Digital-Driven Business** at Amsterdam University of Applied Sciences  
-📊 Passionate about **Data Analytics**, **Machine Learning**, and **Business Intelligence**
 💼 Former Java Backend Developer at **Tejarat Bank**  
+📊 Passionate about **Data Analytics**, **Machine Learning**, and **Business Intelligence**
+
 ---
 
 ## 👩‍💻 I’m interested in:
